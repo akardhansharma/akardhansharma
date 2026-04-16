@@ -37,13 +37,18 @@ Currently deep into **AI agents**, **multi-agent workflows**, and **data analyti
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 ### 🚚 [Delhivery Supply Chain Delay Analyzer](https://github.com/akardhansharma/Delhivery_supply_chain_analysis)
-End-to-end analysis of **144,316 real shipments** from India's largest logistics company.
-Identified delay patterns by route, state, transport mode & time of day — surfacing actionable operational insights.
-`Python` `SQL` `Tableau` `Pandas`
 
+End-to-end analysis of **144,316 real shipments** from India's largest logistics company.
+Identified delay patterns by route, state, transport mode & time of day — surfacing actionable operational insights. `Python` `SQL` `Tableau` `Pandas`
+
+### 🛒 [Customer RFM Segmentation](https://github.com/akardhansharma/customer-rfm-analytics)
+
+End-to-end RFM customer segmentation using **Google BigQuery SQL** and **Power BI**.
+Segments customers by Recency, Frequency & Monetary value to drive targeted business decisions.
+`SQL` `BigQuery` `Power BI`
 ---
 
 ## 📊 GitHub Stats
