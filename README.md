@@ -49,7 +49,7 @@ Identified delay patterns by route, state, transport mode & time of day — surf
 End-to-end RFM customer segmentation using Google BigQuery SQL and Power BI. Segments customers by Recency, Frequency & Monetary value to drive targeted business decisions.
 `SQL` `BigQuery` `Power BI`
 
-
+---
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=akardhansharma&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
