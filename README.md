@@ -65,14 +65,5 @@ Built a modular Python CLI trading bot for the Binance Futures Testnet with auto
 ---
 
 
-[![](https://komarev.com/ghpvc/?username=akardhansharma&color=blueviolet)](https://github.com/akardhansharma)
+[![](https://komarev.com/ghpvc/?username=akardhansharma&color=blue)](https://github.com/akardhansharma)
 
----
-
-[![](https://komarev.com/ghpvc/?username=akardhansharma&label=PROFILE+VIEWS&color=blue)](https://github.com/akardhansharma)
-
----
-
-[![](https://komarev.com/ghpvc/?username=akardhansharma&label=VISITORS&color=brightblue)](https://github.com/akardhansharma)
-
----
