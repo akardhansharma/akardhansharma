@@ -1,14 +1,14 @@
 # Hey, I'm Akardhan 👋
 
-I turn messy data into decisions — and automate the boring parts so humans can focus on the interesting ones.
+I turn messy data into decisions — and automate repetitive workflows with Python.
 
-Currently deep into **AI agents**, **multi-agent workflows**, and **data analytics**. I like finding patterns where others see noise.
+Currently building data analytics projects and experimenting with AI agents and workflow automation.
 
 - 🔍 Building end-to-end analytics pipelines — from raw data to dashboards
 - 🤖 Exploring multi-agent workflows with LangChain & n8n
-- 🤝 Open to collaborating on data projects and automation
+- 🤝 Open to collaborating on Python, data analytics,data science and automation projects.
 - 💬 Ask me about Python, SQL, or AI agents
-- ☠️ I suffer from **ADHD-induced Unconscious Competence**
+- ⚡ I enjoy building projects that solve real-world problems.
 
 ---
 
@@ -41,23 +41,38 @@ Currently deep into **AI agents**, **multi-agent workflows**, and **data analyti
 
 ### 🚚 [Delhivery Supply Chain Delay Analyzer](https://github.com/akardhansharma/Delhivery_supply_chain_analysis)
 
-End-to-end analysis of **144,316 real shipments** from India's largest logistics company.
-Identified delay patterns by route, state, transport mode & time of day — surfacing actionable operational insights.
+Analyzed 144,316 real shipment records to uncover delay patterns by route, transport mode, and state. Built an interactive Tableau dashboard that helps identify operational bottlenecks.
 `Python` `SQL` `Tableau` `Pandas`
 
 ### 🛒 [Customer RFM Segmentation](https://github.com/akardhansharma/customer-rfm-analytics)
 End-to-end RFM customer segmentation using Google BigQuery SQL and Power BI. Segments customers by Recency, Frequency & Monetary value to drive targeted business decisions.
 `SQL` `BigQuery` `Power BI`
 
----
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=akardhansharma&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=akardhansharma&theme=midnight-purple&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akardhansharma&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 📈 [Binance Futures Trading Bot](https://github.com/akardhansharma/trading-bot)
+Built a modular Python CLI trading bot for the Binance Futures Testnet with automatic timestamp synchronization, input validation, structured logging, and a clean layered architecture for reliable order execution.
+`Python` `REST API` `CLI` `Binance API` `Logging`
 
 ---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- LangGraph
+- FastAPI
+- Docker
+- AWS
+
+---
+
 
 [![](https://komarev.com/ghpvc/?username=akardhansharma&color=blueviolet)](https://github.com/akardhansharma)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=akardhansharma&label=PROFILE+VIEWS&color=blue)](https://github.com/akardhansharma)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=akardhansharma&label=VISITORS&color=brightblue)](https://github.com/akardhansharma)
+
+---
